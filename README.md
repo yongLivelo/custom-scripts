@@ -25,5 +25,4 @@ Append the following line to the file:
 ```bash
 export PATH=$HOME/custom-scripts:$PATH
 ```
-
 ---
